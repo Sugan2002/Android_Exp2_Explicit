@@ -136,7 +136,7 @@ public class MainActivity2 extends AppCompatActivity {
 
 </RelativeLayout>
 
-```
+
 
 ## OUTPUT:
 
@@ -146,3 +146,5 @@ public class MainActivity2 extends AppCompatActivity {
 
 ### RESULT:
 Thus a Simple Android Application to get user and display factorial of the same number using Explicit Intents using Android Studio is developed and executed successfully.
+
+```
