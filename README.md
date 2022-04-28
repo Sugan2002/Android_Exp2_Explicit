@@ -35,7 +35,7 @@ Registeration Number : 212220230049
 */
 
 ## MainActivity.java
-
+```java
 package com.example.exintent;
 
 import androidx.appcompat.app.AppCompatActivity;
@@ -59,9 +59,9 @@ public class MainActivity extends AppCompatActivity {
         startActivity(i);
     }
 }
-
+```
 ## activity_main.xml
-
+```java
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
@@ -86,9 +86,9 @@ public class MainActivity extends AppCompatActivity {
         android:onClick="displayFactorial"/>
 
 </LinearLayout>
-
+```
 ## MainActivity2.java
-
+```java
 package com.example.exintent;
 
 import androidx.appcompat.app.AppCompatActivity;
@@ -116,6 +116,7 @@ public class MainActivity2 extends AppCompatActivity {
         tv.setText("Factorial of "+no+" is "+f);
     }
 }
+```
 
 ## activity_main2.xml
 
@@ -134,7 +135,7 @@ public class MainActivity2 extends AppCompatActivity {
         style="@style/TextAppearance.AppCompat.Large"/>
 
 </RelativeLayout>
-
+```
 ### OUTPUT:
 ![Screenshot (69)](https://user-images.githubusercontent.com/77089743/165675110-195f8574-bfc7-48b3-9e89-0f7dcaed8aa7.png)
 
