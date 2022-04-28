@@ -1,4 +1,4 @@
-### Ex.No:2b Explicit Intents
+# Ex.No:2b Explicit Intents
 ## AIM:
 Thus a Simple Android Application to open google page using Implicit Intents using Android Studio is developed and executed successfully.
 
@@ -137,7 +137,7 @@ public class MainActivity2 extends AppCompatActivity {
 </RelativeLayout>
 ```
 ### OUTPUT:
-![Screenshot (69)](https://user-images.githubusercontent.com/77089743/165675110-195f8574-bfc7-48b3-9e89-0f7dcaed8aa7.png)
+![Screenshot (69)](https://user-images.githubusercontent.com/77089743/165675540-a5ba1e9b-0fd2-441f-a70e-babb6aee154d.png)
 
 ![Screenshot (70)](https://user-images.githubusercontent.com/77089743/165675139-dae7fdb4-5953-48e0-a318-d387bb4bc0dc.png)
 
