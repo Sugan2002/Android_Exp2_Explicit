@@ -135,8 +135,10 @@ public class MainActivity2 extends AppCompatActivity {
         style="@style/TextAppearance.AppCompat.Large"/>
 
 </RelativeLayout>
+
 ```
-### OUTPUT:
+
+## OUTPUT:
 
 ![Screenshot (69)](https://user-images.githubusercontent.com/77089743/165675540-a5ba1e9b-0fd2-441f-a70e-babb6aee154d.png)
 
