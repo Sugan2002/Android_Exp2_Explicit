@@ -1,4 +1,6 @@
-# Ex.No:2b Explicit Intents
+# <p align="center"> Ex.No-2b Explicit Intents </P>
+
+
 ## AIM:
 Thus a Simple Android Application to open google page using Implicit Intents using Android Studio is developed and executed successfully.
 
